@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "period_date": "2026-02-14",
+  "root_hash": "9896fca12d025010d814ce215f0077ce63b43f871af12abd7a4203f1da96e54f",
+  "verification_count": 2,
+  "generated_at": "2026-02-15T05:12:45.127Z",
+  "leaves": [
+    {
+      "hash": "4fd865c24a03405400ad681de2bec8b7927652c3b2d5dd51deb960c6a232403c",
+      "type": "url_registration",
+      "timestamp": "2026-02-13T14:39:27.193+00:00",
+      "url": "https://trainingdataregistry.org"
+    },
+    {
+      "hash": "0fb0b76549a7d2f6a3868855e6f1863f0df81c722cb716c0f301152efaa7016c",
+      "type": "domain_verification",
+      "timestamp": "2026-02-13T17:27:00.016+00:00",
+      "domain": "trainingdataregistry.org"
+    }
+  ]
+}
